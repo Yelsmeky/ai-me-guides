@@ -1,0 +1,12 @@
+# Incidental operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor swap, lock and backup files
+*~
+*.swp
+*.swo
+*.bak
+.#*
+\#*\#
