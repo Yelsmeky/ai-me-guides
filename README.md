@@ -53,3 +53,11 @@ The guides link directly to the original authors and official setup instructions
 We do not vouch for downloads offered by linked sites. Review exact tools, versions, dependencies and permissions before approving installation or execution. The included DOWNLOAD_VETTING.md supplies a reusable vetting prompt; an AI review cannot guarantee safety.
 
 These instructions have received document reviews but have not yet been validated through an actual beginner trial. Product features, plans, menus and third-party software can change; consult current official instructions when setting up tools.
+
+## License
+
+Copyright © 2026 David Kemsley. Except where otherwise noted, the original documentation in this repository is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). See [LICENSE](LICENSE) for the full terms.
+
+You may share and adapt the documentation for noncommercial purposes. When sharing it or an adaptation, credit **David Kemsley**, link to [this repository](https://github.com/Yelsmeky/ai-me-guides) and the license, and indicate any changes. Commercial reuse requires separate permission unless otherwise permitted by law. Third-party quotations and linked material retain their respective rights and licenses.
+
+Suggested attribution: “AI Me Guides by David Kemsley — https://github.com/Yelsmeky/ai-me-guides — licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/).” Add a description of changes if you modified the material.
