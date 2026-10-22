@@ -4,7 +4,7 @@ The goal is to turn useful information from old AI chats into a personal knowled
 
 This is a route through other people's published methods. Our contribution is mainly selecting, connecting and explaining them for beginners, with explicit choices about evidence, filtering, privacy and review. We do not claim a new technical method or a uniquely original combination. Karpathy supplies the wiki foundation; the sources below supply tutorials and procedures. Use their relevant sections with the adaptations here rather than follow every installation or example unchanged.
 
-This shorter route relies on the original websites for fuller explanations. You and your assistant will need to open them. The longer, self-contained guide is an alternative if you prefer the explanations gathered in one document; you do not need both to follow this route. App setup and obtaining your exports may happen in either order. Prepare readable copies only after both are ready.
+This source-guided route relies on the original websites for fuller explanations. You and your assistant will need to open and work through the relevant sections. It is not necessarily easier or faster than the complete guide; its document is more compact because much of the explanation stays on those websites. The [complete beginner guide](GUIDE.md) is an alternative if you prefer the explanations gathered in one document; you do not need both to follow this route. App setup and obtaining your exports may happen in either order. Prepare readable copies only after both are ready.
 
 ## Before downloading or installing tools
 

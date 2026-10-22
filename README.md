@@ -11,7 +11,7 @@ Choose one route. You do not need to read both.
 | Route | What it provides | Choose it if |
 |---|---|---|
 | [Complete beginner guide](GUIDE.md) | Detailed explanations, desktop setup, file handling, prompts and checks gathered in one document, with links to original sources. | You want the instructions together and fewer trips between websites. Use the getting-started steps below. |
-| [Shorter guide through the original sources](SOURCE_GUIDE.md) | A sequence through selected original tutorials, prompts explaining how to adapt them, and a procedure for vetting proposed downloads. | You prefer learning from the original authors with an AI helping connect their procedures. This route relies more on website access. |
+| [Source-guided route](SOURCE_GUIDE.md) | A sequence through selected original tutorials, prompts explaining how to adapt them, and a procedure for vetting proposed downloads. | You prefer learning from the original authors with an AI helping connect their procedures. This route requires consulting the original websites and is not necessarily easier or faster. |
 
 Give your chosen guide's full contents to your assistant as an attachment or pasted text, rather than just its filename. Work through one stage at a time and save the instructions and progress files it helps you create. Each route explains how to continue in another chat without prior conversation history.
 
